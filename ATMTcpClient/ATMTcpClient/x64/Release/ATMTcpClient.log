@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Thilak\1. ATM C++\ATM Simulator\atm-simulator\ATMTcpClient\ATMTcpClient\main.cpp(251,42): warning C4101: 'e': unreferenced local variable
+C:\Thilak\1. ATM C++\ATM Simulator\atm-simulator\ATMTcpClient\ATMTcpClient\main.cpp(375,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 344 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ATMTcpClient.vcxproj -> C:\Thilak\1. ATM C++\ATM Simulator\atm-simulator\ATMTcpClient\x64\Release\ATMTcpClient.exe
